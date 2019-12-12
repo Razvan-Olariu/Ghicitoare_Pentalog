@@ -1,0 +1,6 @@
+C:\Users\alexa\source\repos\Pentalog_Tema2\bin\Debug\Pentalog_Tema2.exe.config
+C:\Users\alexa\source\repos\Pentalog_Tema2\bin\Debug\Pentalog_Tema2.exe
+C:\Users\alexa\source\repos\Pentalog_Tema2\bin\Debug\Pentalog_Tema2.pdb
+C:\Users\alexa\source\repos\Pentalog_Tema2\obj\Debug\Pentalog_Tema2.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Pentalog_Tema2\obj\Debug\Pentalog_Tema2.exe
+C:\Users\alexa\source\repos\Pentalog_Tema2\obj\Debug\Pentalog_Tema2.pdb

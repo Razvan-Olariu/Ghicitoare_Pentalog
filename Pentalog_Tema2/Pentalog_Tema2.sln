@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pentalog_Tema2", "Pentalog_Tema2.csproj", "{2E960454-2C2E-4A6E-929B-53FBD40FF265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formatare String", "..\Formatare String\Formatare String.csproj", "{7D1E8F87-BD7D-4E07-9F1F-6EB20A1F02C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E960454-2C2E-4A6E-929B-53FBD40FF265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E960454-2C2E-4A6E-929B-53FBD40FF265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E960454-2C2E-4A6E-929B-53FBD40FF265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E960454-2C2E-4A6E-929B-53FBD40FF265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D1E8F87-BD7D-4E07-9F1F-6EB20A1F02C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D1E8F87-BD7D-4E07-9F1F-6EB20A1F02C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D1E8F87-BD7D-4E07-9F1F-6EB20A1F02C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D1E8F87-BD7D-4E07-9F1F-6EB20A1F02C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D778BE-E40B-4749-9B30-82CE66042417}
+	EndGlobalSection
+EndGlobal
